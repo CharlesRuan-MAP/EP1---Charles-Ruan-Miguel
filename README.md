@@ -13,9 +13,25 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 **Turma:** [06]  
 
 ## Instruções para Compilação e Execução
+Compilação:
+[javac *.java]
 
-Compile 
-javac *.java
+Execução:
+[java Main]
 
-Execute o sistema:
-java Main
+Estrutura de Pastas:
+[Projeto Hospital EP1/
+├── README.md
+├── Main.java
+├── Paciente.java
+├── PacienteVIP.java
+├── Medico.java
+├── Internacao.java
+├── PlanoSaude.java
+├── pacientes.csv
+└── medicos.csv]
+
+Versão do JAVA utilizada:
+[java version "25" 2025-09-16 LTS
+Java(TM) SE Runtime Environment (build 25+37-LTS-3491)
+Java HotSpot(TM) 64-Bit Server VM (build 25+37-LTS-3491, mixed mode, sharing]
