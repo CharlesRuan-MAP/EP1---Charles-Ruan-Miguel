@@ -10,7 +10,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 **Nome completo:** [Charles Ruan Miguel Araujo Pinheiro]  
 **Matrícula:** [241025926]  
 **Curso:** [Engenharias]  
-**Turma:** [06]  
+**Turma:** [02]  
 
 ## Instruções para Compilação e Execução
 Compilação:
